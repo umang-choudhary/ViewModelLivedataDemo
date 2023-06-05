@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModelLivedataDemo</string>
+    <string name="random_number">Random Number</string>
+</resources>
